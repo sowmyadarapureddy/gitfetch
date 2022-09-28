@@ -1,1 +1,2 @@
 welcome to gitfetch
+welcome to git clone
